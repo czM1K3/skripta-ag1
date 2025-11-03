@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: BI-AG1
-site_url: https://skripta.ag1.monster
-repo_name: truepeak78/ag1
-repo_url: https://github.com/truepeak78/ag1
+site_url: https://czm1k3.github.io/skripta-ag1
+repo_name: czM1K3/skripta-ag1
+repo_url: https://github.com/czM1K3/skripta-ag1
 theme:
     name: material
     features:
@@ -74,4 +74,3 @@ extra:
           - icon: material/bug
             link: https://github.com/truepeak78/ag1/issues/new
             name: Report an Issue
-
