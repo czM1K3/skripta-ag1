@@ -1,4 +1,4 @@
-### [Skripta](https://skripta.ag1.monster)
+### [Skripta - Fork](https://czm1k3.github.io/ag1-skripta)
 
 ---
 
